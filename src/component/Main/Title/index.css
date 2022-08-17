@@ -1,0 +1,36 @@
+.firstTitle {
+    margin-left: 86px;
+    margin-top: 50px;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 39px;
+    color: #FFFFFF;
+}
+
+h1 {
+    font-family: 'Inter';
+    margin-top: -10px;
+    margin-left: 86px;
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 77px;
+    letter-spacing: 0.055em;
+    color: #FFFFFF;
+}
+
+.secondTitle {
+    margin-top: -10px;
+    position: absolute;
+    margin-left: 86px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+
+span {
+    color: #A7A6A6
+}

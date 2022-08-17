@@ -1,0 +1,53 @@
+.buttons {
+    display: flex;
+    margin-left: 86px;
+    margin-top: 20px;
+}
+
+.button1 {
+    width: 272px;
+    height: 64px;
+    margin-top: 7px;
+    display: flex;
+    background: #D50D1F;
+    border-radius: 10px;  
+    position: relative; 
+}
+
+.textInButton {
+    position: absolute;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 22px;
+    bottom: -3px;
+    left: -20%;
+    color: #fff
+}
+
+.imgInButton {
+    position: absolute;
+    right: 40px;
+    top: 15px;
+}
+
+.button2 {
+    width: 271px;
+    height: 64px;
+    margin-top: 7px;
+    margin-left: 30px;
+    border: 3px solid #FFFFFF;
+    border-radius: 10px;
+    position: relative;
+}
+
+.textInButton2 {
+    font-family: 'Inter';
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 141.52%;
+    color: #FFFFFF;
+    margin-top: -23px;
+    position: absolute;
+    left: -10%;
+    right: auto;
+}
